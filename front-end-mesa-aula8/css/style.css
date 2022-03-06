@@ -4,8 +4,9 @@ body {
     background-color: #131313;
     background-image: url(../img/homem-aranha-nwh.jpg);
     background-repeat: no-repeat;
+    background-attachment: scroll;
     background-size: 100%;
-    background-position: top right;
+    background-position: cover;
 }
 
 h1 {
