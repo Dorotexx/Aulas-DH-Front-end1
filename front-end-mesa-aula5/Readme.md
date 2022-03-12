@@ -1,4 +1,4 @@
-GLOSSÁRIO DA AULA 4
+GLOSSÁRIO DA AULA 5
 
 HTML: HyperText Markup Language. (Linguagem de Marcação de HiperTexto)
 
