@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+    position: :sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.barra-desconto {
+    background-color: #1cd1b0;
+    height: 40px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.titulo {
+    background-color: #00669f;
+    width: 100%;
+    box-shadow: 0px 12px 11px -8px rgba(0, 0, 0, 0.58);
+}
+
+.h1 {
+    height: 101px;
+    padding: 5px;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+.h2 {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    font-family: roboto;
+}
+
+.p {
+    position: absolute;
+    top: 380px;
+    margin: 0px 50px 0px 50px;
+    text-align: center;
+}
+
+.container-cards {
+    width: 834px;
+    height: 597px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+}
+
+#heart {
+
+    position: absolute;
+    padding: 20px;
+}
+
+#background-personagens {
+    width: 374px;
+    height: 200px;
+}
+
+#personagens {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    border-radius: 50%;
+    left: 125px;
+    top: 135px;
+}
+
+
+/* Parte do Batman */ 
+
+.card-batman {
+    width: 374px;
+    height: 597.01px;
+    border-top-left-radius: 30px;
+    border-right: 30px;
+    background-color: #f3f3f3;
+    box-shadow: 0px 16px 15px -9px rgba(0, 0, 0, 0.81);
+    position: relative;
+    gap: ;
+}
+
+
+
+
+/* Parte da Harley */
+
+.card-Harley {
+    width: 374px;
+    height: 597.01px;
+    border-top-left-radius: 30px;
+    border-right: 30px;
+    background-color: #f3f3f3;
+    box-shadow: 0px 16px 15px -9px rgba(0, 0, 0, 0.81);
+    position: relative;
+    gap: ;
+
+}
+
+.card__titulo {
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.card__descricao {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.card__botao {
+    text-decoration: none;
+    text-align: center;
+    padding: 18px;
+    width: 145.34px;
+    height: 54.76px;
+    background-color: #00669f;
+    color: white;
+    font-size: 20px;
+    border: none;
+    display: block;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+footer {
+    background-color: #00669F;
+    height: 51px;
+    color: #FFF9F9;
+    padding: 10px;
+}
